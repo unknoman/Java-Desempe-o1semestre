@@ -1,3 +1,3 @@
 # Java-Desempe-o1semestre
 
-Son ejercicios de logica que hice en mi carrera
+Son ejercicios de lógica que hice en mi carrera 
